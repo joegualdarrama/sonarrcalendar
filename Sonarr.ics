@@ -4,27 +4,13 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:HBO
-DESCRIPTION:John Oliver explains why public libraries are under attack\, w
- here those challenges are coming from\, and how you really spell “Berenst
- ain.” Trust us\, it’s not how you think.
-DTEND:20240506T033200Z
-DTSTAMP:20240513T034501Z
-DTSTART:20240506T030000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Last Week Tonight with John Oliver - 11x10 - May 5\, 2024: Public 
- Libraries
-UID:NzbDrone_episode_2569
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:ABC (US)
 DESCRIPTION:After discovering the body of a missing girl 13 years later\, 
  Will and Faith reopen the case leading to Will experiencing frequent flas
  hbacks as they uncover the truth. Meanwhile\, Angie and Ormewood investig
  ate the death of a veteran.
 DTEND:20240508T004300Z
-DTSTAMP:20240513T034501Z
+DTSTAMP:20240514T034501Z
 DTSTART:20240508T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -37,7 +23,7 @@ DESCRIPTION:Sophie Willan shouts the name of a body part in Alex Horne's f
  lustered face. John Robins demonstrates the power of his forearms. And ca
  n Joanne McNally act out the word 'beer'?
 DTEND:20240509T204600Z
-DTSTAMP:20240513T034501Z
+DTSTAMP:20240514T034501Z
 DTSTART:20240509T200000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -48,21 +34,25 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Maya Rudolph hosts\; Vampire Weekend performs.
 DTEND:20240512T043500Z
-DTSTAMP:20240513T034501Z
+DTSTAMP:20240514T034501Z
 DTSTART:20240512T033000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Saturday Night Live - 49x19 - Maya Rudolph / Vampire Weekend
 UID:NzbDrone_episode_2647
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
+DESCRIPTION:John Oliver discusses how state and local governments in the U
+ S are spending opioid settlements\, a new deportation plan in the UK\, an
+ d\, of course\, his favorite contestant at Eurovision.
 DTEND:20240513T033200Z
-DTSTAMP:20240513T034501Z
+DTSTAMP:20240514T034501Z
 DTSTART:20240513T030000Z
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Last Week Tonight with John Oliver - 11x11 - May 12\, 2024
+STATUS:CONFIRMED
+SUMMARY:Last Week Tonight with John Oliver - 11x11 - May 12\, 2024: Opioid
+  Settlements
 UID:NzbDrone_episode_2572
 END:VEVENT
 BEGIN:VEVENT
@@ -72,7 +62,7 @@ DESCRIPTION:To deepen his connection with his late mother\, Will joins Ant
  involving his uncle’s old friend. Meanwhile\, Faith and Ormewood investig
  ate the mysterious death of a sex offender.
 DTEND:20240515T004300Z
-DTSTAMP:20240513T034501Z
+DTSTAMP:20240514T034501Z
 DTSTART:20240515T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -85,7 +75,7 @@ DESCRIPTION:Taskmaster Greg Davies has witnessed many bizarre moments\, bu
  t this episode ups the ante - from oars for arms to a beatboxing wolf. An
  d why won't Nick Mohammed stop winking?!
 DTEND:20240516T204600Z
-DTSTAMP:20240513T034501Z
+DTSTAMP:20240514T034501Z
 DTSTART:20240516T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -96,7 +86,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Jake Gyllenhaal hosts\; Sabrina Carpenter performs.
 DTEND:20240519T043500Z
-DTSTAMP:20240513T034501Z
+DTSTAMP:20240514T034501Z
 DTSTART:20240519T033000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -106,7 +96,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
 DTEND:20240520T033200Z
-DTSTAMP:20240513T034501Z
+DTSTAMP:20240514T034501Z
 DTSTART:20240520T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -119,7 +109,7 @@ DESCRIPTION:Will\, Faith and Angie find themselves embroiled in a series o
  f cases where a similar marker links the murders of several sex offenders
  . Meanwhile\, Angie grapples with an unexpected proposition from Amanda.
 DTEND:20240522T004300Z
-DTSTAMP:20240513T034501Z
+DTSTAMP:20240514T034501Z
 DTSTART:20240522T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -128,8 +118,11 @@ UID:NzbDrone_episode_2574
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Channel 4
+DESCRIPTION:Alex Horne risks raising Greg Davies' hackles with a task in c
+ elebration of himself. Steve Pemberton has an expletive-laden row with a 
+ bin. Plus: a novel use for a cow's ear.
 DTEND:20240523T204600Z
-DTSTAMP:20240513T034501Z
+DTSTAMP:20240514T034501Z
 DTSTART:20240523T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -139,11 +132,21 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Channel 4
 DTEND:20240530T204600Z
-DTSTAMP:20240513T034501Z
+DTSTAMP:20240514T034501Z
 DTSTART:20240530T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Taskmaster - 17x10 - TBA
 UID:NzbDrone_episode_1165
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HBO
+DTEND:20240603T033200Z
+DTSTAMP:20240514T034501Z
+DTSTART:20240603T030000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Last Week Tonight with John Oliver - 11x13 - June 2\, 2024
+UID:NzbDrone_episode_2655
 END:VEVENT
 END:VCALENDAR
