@@ -4,23 +4,10 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:Channel 4
-DESCRIPTION:Greg Davies has witnessed many bizarre moments during his time
-  as the Taskmaster\, but this episode ups the ante - from oars for arms t
- o a beatboxing wolf. And why won't Nick Mohammed stop winking?!
-DTEND:20240516T204600Z
-DTSTAMP:20240524T034501Z
-DTSTART:20240516T200000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Taskmaster - 17x08 - The Umbrella Wink
-UID:NzbDrone_episode_1163
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Jake Gyllenhaal hosts\; Sabrina Carpenter performs.
 DTEND:20240519T043500Z
-DTSTAMP:20240524T034501Z
+DTSTAMP:20240525T034501Z
 DTSTART:20240519T033000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -33,7 +20,7 @@ DESCRIPTION:John Oliver discusses the financial and environmental impact o
  f corn in the U.S.\, recent commencement ceremony mishaps\, and the rise 
  of the far-right AfD party in Germany.
 DTEND:20240520T033200Z
-DTSTAMP:20240524T034501Z
+DTSTAMP:20240525T034501Z
 DTSTART:20240520T030000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -46,7 +33,7 @@ DESCRIPTION:Will\, Faith and Angie find themselves embroiled in a series o
  f cases where a similar marker links the murders of several sex offenders
  . Meanwhile\, Angie grapples with an unexpected proposition from Amanda.
 DTEND:20240522T004300Z
-DTSTAMP:20240524T034501Z
+DTSTAMP:20240525T034501Z
 DTSTART:20240522T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -55,11 +42,11 @@ UID:NzbDrone_episode_2574
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Channel 4
-DESCRIPTION:Alex Horne risks raising Greg Davies' hackles with a task in c
- elebration of himself. Steve Pemberton has an expletive-laden row with a 
- bin. Plus: a novel use for a cow's ear.
+DESCRIPTION:Little Alex Horne risks raising Greg Davies' hackles with a ta
+ sk in celebration of himself. Steve Pemberton has an expletive-laden row 
+ with a bin. Plus: a novel use for a cow's ear.
 DTEND:20240523T204600Z
-DTSTAMP:20240524T034501Z
+DTSTAMP:20240525T034501Z
 DTSTART:20240523T200000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -76,7 +63,7 @@ DESCRIPTION:It's the grand final\, which means one superior competitor wil
  ck Mohammed will make a magical prediction. And\, of course\, Little Alex
   Horne will diligently record every last moment for posterity.
 DTEND:20240530T204600Z
-DTSTAMP:20240524T034501Z
+DTSTAMP:20240525T034501Z
 DTSTART:20240530T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -86,7 +73,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
 DTEND:20240603T033200Z
-DTSTAMP:20240524T034501Z
+DTSTAMP:20240525T034501Z
 DTSTART:20240603T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -96,7 +83,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
 DTEND:20240610T033200Z
-DTSTAMP:20240524T034501Z
+DTSTAMP:20240525T034501Z
 DTSTART:20240610T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -106,7 +93,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
 DTEND:20240617T020200Z
-DTSTAMP:20240524T034501Z
+DTSTAMP:20240525T034501Z
 DTSTART:20240617T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
