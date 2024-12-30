@@ -1,0 +1,193 @@
+BEGIN:VCALENDAR
+NAME:Sonarr TV Schedule
+PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
+VERSION:2.0
+X-WR-CALNAME:Sonarr TV Schedule
+BEGIN:VEVENT
+CATEGORIES:Apple TV+
+DESCRIPTION:Jimmy takes Paul’s advice about Alice. Liz finally finds her p
+ urpose. Gaby hosts Thanksgiving dinner.
+DTEND:20241224T053400Z
+DTSTAMP:20241230T215015Z
+DTSTART:20241224T050000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Shrinking - 2x12 - The Last Thanksgiving
+UID:NzbDrone_episode_6423
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Max
+DESCRIPTION:Wendy finds herself at the center of a twisted love triangle. 
+ Lorraine pivots away from Hector. Danny and Ray hire a very odd banker.
+DTEND:20241227T022300Z
+DTSTAMP:20241230T215015Z
+DTSTART:20241227T020000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bookie - 2x03 - Boom\, Done\, Hello Jesus
+UID:NzbDrone_episode_12233
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV+
+DESCRIPTION:Lukas is assigned a mission. Mechanical sends a powerful messa
+ ge. Juliette embarks on a perilous descent—and confronts a new danger.
+DTEND:20241227T054900Z
+DTSTAMP:20241230T215015Z
+DTSTART:20241227T050000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Silo - 2x07 - The Dive
+UID:NzbDrone_episode_11045
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Max
+DESCRIPTION:As Hector\, Walt\, and Lorraine squabble over their fledgling 
+ psychedelic business\, Danny looks for a way to get Wendy out of his life
+ .
+DTEND:20250103T022300Z
+DTSTAMP:20241230T215015Z
+DTSTART:20250103T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Bookie - 2x04 - Make It Look Like an Accident
+UID:NzbDrone_episode_12234
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV+
+DESCRIPTION:Juliette discovers something’s happened to Solo. Bernard makes
+  an offer to Walker. Lukas meets with Salvador Quinn’s descendants.
+DTEND:20250103T054900Z
+DTSTAMP:20241230T215015Z
+DTSTART:20250103T050000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Silo - 2x08 - The Book of Quinn
+UID:NzbDrone_episode_11046
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DESCRIPTION:The GBI tracks down Will after the murder of two off-duty cops
+ . As the investigation unfolds\, Will is drawn into his past to clear a f
+ riend's name amid rivalries and corruption.
+DTEND:20250108T014300Z
+DTSTAMP:20241230T215015Z
+DTSTART:20250108T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Will Trent - 3x01 - I'm a Guest Here
+UID:NzbDrone_episode_8660
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DESCRIPTION:The team investigates a mysterious young girl who was found at
+ tacked on a beach. Meanwhile\, Morgan begins to let her guard down on her
+  date with Tom\, and Soto comes one step closer to finding out what happe
+ ned to Roman.
+DTEND:20250108T024300Z
+DTSTAMP:20241230T215015Z
+DTSTART:20250108T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:High Potential - 1x08 - Obsessed
+UID:NzbDrone_episode_6455
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Dropout
+DTEND:20250109T021000Z
+DTSTAMP:20241230T215015Z
+DTSTART:20250109T000000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Dimension 20 - 24x01 - TBA
+UID:NzbDrone_episode_12339
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Max
+DESCRIPTION:After an untimely personal loss\, Ray’s home life spirals out 
+ of control\, causing Danny to take Hector under his wing.
+DTEND:20250110T022300Z
+DTSTAMP:20241230T215015Z
+DTSTART:20250110T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Bookie - 2x05 - Fruit's for Partners
+UID:NzbDrone_episode_12235
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV+
+DTEND:20250110T054900Z
+DTSTAMP:20241230T215015Z
+DTSTART:20250110T050000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Silo - 2x09 - Episode 9
+UID:NzbDrone_episode_11047
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:NBC
+DESCRIPTION:Abby is thrilled when Mayim Bialik appears in the courtroom\, 
+ but she begins to wonder if the situation is more sinister than it seems.
+  Dan hunts for a mystery man guilty of forgoing basic etiquette.
+DTEND:20250115T012200Z
+DTSTAMP:20241230T215015Z
+DTSTART:20250115T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Night Court (2023) - 3x05 - Mayim Worst Enemy
+UID:NzbDrone_episode_12240
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Dropout
+DTEND:20250116T021000Z
+DTSTAMP:20241230T215015Z
+DTSTART:20250116T000000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Dimension 20 - 24x02 - TBA
+UID:NzbDrone_episode_12340
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Max
+DESCRIPTION:When a client bets big on the WNBA\, Danny and Ray realize the
+ ir banker – and money – have gone missing.
+DTEND:20250117T022300Z
+DTSTAMP:20241230T215015Z
+DTSTART:20250117T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Bookie - 2x06 - Spooning Is Not Necrophilia
+UID:NzbDrone_episode_12236
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV+
+DTEND:20250117T054900Z
+DTSTAMP:20241230T215015Z
+DTSTART:20250117T050000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Silo - 2x10 - Episode 10
+UID:NzbDrone_episode_11048
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Dropout
+DTEND:20250123T021000Z
+DTSTAMP:20241230T215015Z
+DTSTART:20250123T000000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Dimension 20 - 24x03 - TBA
+UID:NzbDrone_episode_12341
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Max
+DESCRIPTION:After Walt takes ownership of Danny’s book\, Danny and Ray tak
+ e off for Costa Rica to assess the future of their business.
+DTEND:20250124T022300Z
+DTSTAMP:20241230T215015Z
+DTSTART:20250124T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Bookie - 2x07 - Sphincter Money
+UID:NzbDrone_episode_12237
+END:VEVENT
+END:VCALENDAR
