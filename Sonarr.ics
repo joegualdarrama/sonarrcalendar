@@ -4,24 +4,12 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:Sky Max
-DESCRIPTION:With help from Luke Littler\, Rob and Rom sharpen their own sk
- ills for a special challenge at this year's Word Darts Championship.
-DTEND:20241231T214400Z
-DTSTAMP:20250108T044502Z
-DTSTART:20241231T210000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Rob & Romesh Vs - 7x04 - Darts
-UID:NzbDrone_episode_12406
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Max
 DESCRIPTION:As Hector\, Walt\, and Lorraine squabble over their fledgling 
  psychedelic business\, Danny looks for a way to get Wendy out of his life
  .
 DTEND:20250103T022300Z
-DTSTAMP:20250108T044502Z
+DTSTAMP:20250109T044501Z
 DTSTART:20250103T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -33,7 +21,7 @@ CATEGORIES:Apple TV+
 DESCRIPTION:Juliette discovers something’s happened to Solo. Bernard makes
   an offer to Walker. Lukas meets with Salvador Quinn’s descendants.
 DTEND:20250103T054900Z
-DTSTAMP:20250108T044502Z
+DTSTAMP:20250109T044501Z
 DTSTART:20250103T050000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -42,39 +30,41 @@ UID:NzbDrone_episode_11046
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ABC (US)
+DESCRIPTION:The GBI tracks down Will after the murder of two off-duty cops
+ . As the investigation unfolds\, Will is drawn into his past to clear a f
+ riend's name amid rivalries and corruption.
+DTEND:20250108T014300Z
+DTSTAMP:20250109T044501Z
+DTSTART:20250108T010000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Will Trent - 3x01 - I'm a Guest Here (1)
+UID:NzbDrone_episode_8660
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
 DESCRIPTION:The team investigates a mysterious young girl who was found at
  tacked on a beach. Meanwhile\, Morgan begins to let her guard down on her
   date with Tom\, and Soto comes one step closer to finding out what happe
  ned to Roman.
-DTEND:20250107T054300Z
-DTSTAMP:20250108T044502Z
-DTSTART:20250107T050000Z
+DTEND:20250108T024300Z
+DTSTAMP:20250109T044501Z
+DTSTART:20250108T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:High Potential - 1x08 - Obsessed
 UID:NzbDrone_episode_6455
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ABC (US)
-DESCRIPTION:The GBI tracks down Will after the murder of two off-duty cops
- . As the investigation unfolds\, Will is drawn into his past to clear a f
- riend's name amid rivalries and corruption.
-DTEND:20250108T014300Z
-DTSTAMP:20250108T044502Z
-DTSTART:20250108T010000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Will Trent - 3x01 - I'm a Guest Here
-UID:NzbDrone_episode_8660
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Dropout
+DESCRIPTION:The Queens turn it up at the Foehammer masquerade ball\, but u
+ nexpected visitors spur a new journey.
 DTEND:20250109T021000Z
-DTSTAMP:20250108T044502Z
+DTSTAMP:20250109T044501Z
 DTSTART:20250109T000000Z
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Dimension 20 - 24x01 - TBA
+STATUS:CONFIRMED
+SUMMARY:Dimension 20 - 24x01 - Princess and the Paramours
 UID:NzbDrone_episode_12339
 END:VEVENT
 BEGIN:VEVENT
@@ -82,7 +72,7 @@ CATEGORIES:Max
 DESCRIPTION:After an untimely personal loss\, Ray’s home life spirals out 
  of control\, causing Danny to take Hector under his wing.
 DTEND:20250110T022300Z
-DTSTAMP:20250108T044502Z
+DTSTAMP:20250109T044501Z
 DTSTART:20250110T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -94,7 +84,7 @@ CATEGORIES:Apple TV+
 DESCRIPTION:Billings’ faith is shaken. Lukas heads to the down deep. Knox 
  identifies the traitor. Juliette uncovers the truth about Solo’s past.
 DTEND:20250110T054900Z
-DTSTAMP:20250108T044502Z
+DTSTAMP:20250109T044501Z
 DTSTART:20250110T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -102,26 +92,12 @@ SUMMARY:Silo - 2x09 - The Safeguard
 UID:NzbDrone_episode_11047
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ABC (US)
-DESCRIPTION:A famous baseball newscaster is murdered\, and the team is on 
- the case. Meanwhile\, Soto and Morgan meet with a potential lead to discu
- ss Roman’s disappearance\, and Tom has some personal news to share with M
- organ.
-DTEND:20250114T054300Z
-DTSTAMP:20250108T044502Z
-DTSTART:20250114T050000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:High Potential - 1x09 - The RAMs
-UID:NzbDrone_episode_12514
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Abby is thrilled when Mayim Bialik appears in the courtroom\, 
  but she begins to wonder if the situation is more sinister than it seems.
   Dan hunts for a mystery man guilty of forgoing basic etiquette.
 DTEND:20250115T012200Z
-DTSTAMP:20250108T044502Z
+DTSTAMP:20250109T044501Z
 DTSTART:20250115T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -135,17 +111,31 @@ DESCRIPTION:Under mounting political pressure\, the GBI and ADA Marion Alb
  rk secrets that could shatter their preconceived notions of the law enfor
  cement community.
 DTEND:20250115T014300Z
-DTSTAMP:20250108T044502Z
+DTSTAMP:20250109T044501Z
 DTSTART:20250115T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Will Trent - 3x02 - Sunny-Side Up
+SUMMARY:Will Trent - 3x02 - Sunny-Side Up (2)
 UID:NzbDrone_episode_12515
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DESCRIPTION:A famous baseball newscaster is murdered\, and the team is on 
+ the case. Meanwhile\, Soto and Morgan meet with a potential lead to discu
+ ss Roman’s disappearance\, and Tom has some personal news to share with M
+ organ.
+DTEND:20250115T024300Z
+DTSTAMP:20250109T044501Z
+DTSTART:20250115T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:High Potential - 1x09 - The RAMs
+UID:NzbDrone_episode_12514
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Dropout
 DTEND:20250116T021000Z
-DTSTAMP:20250108T044502Z
+DTSTAMP:20250109T044501Z
 DTSTART:20250116T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -157,7 +147,7 @@ CATEGORIES:Max
 DESCRIPTION:When a client bets big on the WNBA\, Danny and Ray realize the
  ir banker – and money – have gone missing.
 DTEND:20250117T022300Z
-DTSTAMP:20250108T044502Z
+DTSTAMP:20250109T044501Z
 DTSTART:20250117T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -167,7 +157,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
 DTEND:20250117T054900Z
-DTSTAMP:20250108T044502Z
+DTSTAMP:20250109T044501Z
 DTSTART:20250117T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -175,22 +165,12 @@ SUMMARY:Silo - 2x10 - Into the Fire
 UID:NzbDrone_episode_11048
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ABC (US)
-DTEND:20250121T054300Z
-DTSTAMP:20250108T044502Z
-DTSTART:20250121T050000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:High Potential - 1x10 - Chutes and Murders
-UID:NzbDrone_episode_12526
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:After learning that Jake has never been in a long-term relatio
  nship\, Abby is determined to find his secret dealbreaker. Dan and Julian
  ne go head to head to prove they don't have feelings for each other.
 DTEND:20250122T012200Z
-DTSTAMP:20250108T044502Z
+DTSTAMP:20250109T044501Z
 DTSTART:20250122T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -199,8 +179,12 @@ UID:NzbDrone_episode_12518
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ABC (US)
+DESCRIPTION:A dispute within a family-owned business leads to multiple poi
+ sonings\, pulling Will and Faith into a tangled web of secrets and corpor
+ ate intrigue. Meanwhile\, Angie\, eager to rejoin the force\, makes a dis
+ covery at Waldorf Estates.
 DTEND:20250122T014300Z
-DTSTAMP:20250108T044502Z
+DTSTAMP:20250109T044501Z
 DTSTART:20250122T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -208,9 +192,19 @@ SUMMARY:Will Trent - 3x03 - You're the One I Want Watching My Back
 UID:NzbDrone_episode_12527
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DTEND:20250122T024300Z
+DTSTAMP:20250109T044501Z
+DTSTART:20250122T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:High Potential - 1x10 - Chutes and Murders
+UID:NzbDrone_episode_12526
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Dropout
 DTEND:20250123T021000Z
-DTSTAMP:20250108T044502Z
+DTSTAMP:20250109T044501Z
 DTSTART:20250123T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -222,7 +216,7 @@ CATEGORIES:Max
 DESCRIPTION:After Walt takes ownership of Danny’s book\, Danny and Ray tak
  e off for Costa Rica to assess the future of their business.
 DTEND:20250124T022300Z
-DTSTAMP:20250108T044502Z
+DTSTAMP:20250109T044501Z
 DTSTART:20250124T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -232,7 +226,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Dropout
 DTEND:20250130T021000Z
-DTSTAMP:20250108T044502Z
+DTSTAMP:20250109T044501Z
 DTSTART:20250130T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -244,7 +238,7 @@ CATEGORIES:CBS
 DESCRIPTION:Sam and Jay are forced to cover when Mark demands to meet the 
  silent investor in Jay’s restaurant who has been holding up construction.
 DTEND:20250131T015100Z
-DTSTAMP:20250108T044502Z
+DTSTAMP:20250109T044501Z
 DTSTART:20250131T013000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -257,7 +251,7 @@ DESCRIPTION:Matty helps Olympia take on Elijah’s cousin’s wrongful termina
  tion case. Also\, Edwin worries that the longer Matty remains at Jacobson
   Moore\, the more she puts herself in danger of being caught.
 DTEND:20250131T024300Z
-DTSTAMP:20250108T044502Z
+DTSTAMP:20250109T044501Z
 DTSTART:20250131T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -270,7 +264,7 @@ DESCRIPTION:A violent showdown in Costa Rica leads to a breakthrough for D
  anny and Ray. Back in LA\, Danny and Marian have realizations of their ow
  n.
 DTEND:20250131T022300Z
-DTSTAMP:20250108T044502Z
+DTSTAMP:20250109T044501Z
 DTSTART:20250131T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
