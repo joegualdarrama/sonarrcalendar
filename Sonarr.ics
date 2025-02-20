@@ -4,47 +4,6 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:ABC (US)
-DESCRIPTION:Will investigates a murder with a familiar pattern\, forcing h
- im to confront his past while tracking a killer who’s always one step ahe
- ad. As the case unfolds\, he begins suspect the truth is closer—and more 
- personal—than he ever imagined.
-DTEND:20250212T014300Z
-DTSTAMP:20250219T044501Z
-DTSTART:20250212T010000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Will Trent - 3x06 - No Faith in Second Chances
-UID:NzbDrone_episode_12684
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:NBC
-DESCRIPTION:An old friend returns and leaves Abby saddled with taking care
-  of a baby during court. The gang tries to stop an influencer from public
- ly embarrassing the courthouse.
-DTEND:20250212T015200Z
-DTSTAMP:20250219T044501Z
-DTSTART:20250212T013000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Night Court (2023) - 3x09 - Ab-ventures in Babysitting
-UID:NzbDrone_episode_12674
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ABC (US)
-DESCRIPTION:An anonymous tip to the LAPD sparks an unusual multiple-victim
-  kidnapping investigation\, forcing the team to rely on board games and p
- uzzles to track down their suspect\; a shocking revelation changes everyt
- hing for Morgan.
-DTEND:20250212T024300Z
-DTSTAMP:20250219T044501Z
-DTSTART:20250212T020000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:High Potential - 1x13 - Let's Play
-UID:NzbDrone_episode_12666
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Dropout
 DESCRIPTION:The fate of Darktide hangs in the balance as the Queens face o
  ff with Inira's undersea forces.\n\nContent Warning:\nHemophobia (Descrip
@@ -52,7 +11,7 @@ DESCRIPTION:The fate of Darktide hangs in the balance as the Queens face o
  53:26]\nDecapitation - [1:53:24-1:55:04]\nDescription of Bodily Injury - 
  [1:09:55-1:09:58\, 1:54:54-1:55:00\, 2:05:17-2:05:34\, 2:44:47-2:44:53]
 DTEND:20250213T021000Z
-DTSTAMP:20250219T044501Z
+DTSTAMP:20250220T044501Z
 DTSTART:20250213T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -64,7 +23,7 @@ CATEGORIES:CBS
 DESCRIPTION:Flower interferes with the opening of Jay's restaurant based o
  n a prophecy from her old cult leader.
 DTEND:20250214T015100Z
-DTSTAMP:20250219T044501Z
+DTSTAMP:20250220T044501Z
 DTSTART:20250214T013000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -77,7 +36,7 @@ CATEGORIES:CBS
 DESCRIPTION:Tensions rise as Shae works with Olympia's team on a case for 
  a tech startup that's had trade secrets stolen.
 DTEND:20250214T024300Z
-DTSTAMP:20250219T044501Z
+DTSTAMP:20250220T044501Z
 DTSTART:20250214T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -92,7 +51,7 @@ DESCRIPTION:Live from Radio City Music Hall\, witness the concert of a lif
   Michaels and Mark Ronson\, will bring together legendary Saturday Night 
  Live hall-of-famers\, iconic guests and surprise musical performances.
 DTEND:20250215T053500Z
-DTSTAMP:20250219T044501Z
+DTSTAMP:20250220T044501Z
 DTSTART:20250215T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -102,7 +61,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ProSieben
 DTEND:20250215T224200Z
-DTSTAMP:20250219T044501Z
+DTSTAMP:20250220T044501Z
 DTSTART:20250215T191500Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -116,7 +75,7 @@ DESCRIPTION:John Oliver discusses the first four weeks of Donald Trump's s
  inistration has made\, and why it is indeed f**k time. You heard us: It's
   f**k time.
 DTEND:20250217T043200Z
-DTSTAMP:20250219T044501Z
+DTSTAMP:20250220T044501Z
 DTSTART:20250217T040000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -125,24 +84,50 @@ SUMMARY:Last Week Tonight with John Oliver - 12x01 - February 16\, 2025: T
 UID:NzbDrone_episode_12668
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:NBC
+DESCRIPTION:The award-winning\, record-breaking sketch show celebrates its
+  50th anniversary live from New York.
+DTEND:20250217T053500Z
+DTSTAMP:20250220T044501Z
+DTSTART:20250217T043000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Saturday Night Live - 50x13 - SNL50: The Anniversary Special
+UID:NzbDrone_episode_12998
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:ABC (US)
 DESCRIPTION:In the midst of a tropical storm\, the APD and GBI race agains
  t time to clear the name of an innocent man\, uncovering shocking secrets
   that suggest the killer may be closer than they ever thought.
 DTEND:20250219T014300Z
-DTSTAMP:20250219T044501Z
+DTSTAMP:20250220T044501Z
 DTSTART:20250219T010000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Will Trent - 3x07 - Mariachi Shelley's Frankenstein
 UID:NzbDrone_episode_12685
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:NBC
+DESCRIPTION:Abby is thrilled when Roz temporarily returns to her job as ba
+ iliff\, but must make things right when Roz starts ruffling everyone's fe
+ athers. Dan co-opts Gurgs' assistant to help realize his dream of becomin
+ g a best-selling author.
+DTEND:20250219T015200Z
+DTSTAMP:20250220T044501Z
+DTSTART:20250219T013000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Night Court (2023) - 3x10 - Pension Tension
+UID:NzbDrone_episode_12675
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
 DESCRIPTION:Jay angers a local restaurateur when he uses a recipe at his r
  estaurant that was given to him by Pete.
 DTEND:20250221T015100Z
-DTSTAMP:20250219T044501Z
+DTSTAMP:20250220T044501Z
 DTSTART:20250221T013000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -151,8 +136,11 @@ UID:NzbDrone_episode_12672
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
+DESCRIPTION:Olympia and Julian's issues intensify as they each represent o
+ pposing sides in a nasty custody case. Also\, Matty uses the firm's secur
+ ity system to her advantage.
 DTEND:20250221T024300Z
-DTSTAMP:20250219T044501Z
+DTSTAMP:20250220T044501Z
 DTSTART:20250221T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -162,7 +150,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
 DTEND:20250224T043200Z
-DTSTAMP:20250219T044501Z
+DTSTAMP:20250220T044501Z
 DTSTART:20250224T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -176,7 +164,7 @@ DESCRIPTION:Will teams up with Marion to investigate a chilling child traf
  d assists a social media influencer with personal security\, until a seem
  ingly routine intervention escalates into violence.
 DTEND:20250226T014300Z
-DTSTAMP:20250219T044501Z
+DTSTAMP:20250220T044501Z
 DTSTART:20250226T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -185,17 +173,16 @@ UID:NzbDrone_episode_12965
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
-DESCRIPTION:Abby is thrilled when Roz temporarily returns to her job as ba
- iliff\, but must make things right when Roz starts ruffling everyone's fe
- athers. Dan co-opts Gurgs' assistant to help realize his dream of becomin
- g a best-selling author.
+DESCRIPTION:Harry's old magician's assistant appears in the courthouse and
+  puts Dan and Abby in a tough position. Gurgs\, Flobert and Julianne are 
+ determined to fire up Wyatt's lukewarm life.
 DTEND:20250226T015200Z
-DTSTAMP:20250219T044501Z
+DTSTAMP:20250220T044501Z
 DTSTART:20250226T013000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Night Court (2023) - 3x10 - Pension Tension
-UID:NzbDrone_episode_12675
+SUMMARY:Night Court (2023) - 3x11 - Abracadabra Alaka-Dan
+UID:NzbDrone_episode_12676
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
@@ -204,7 +191,7 @@ DESCRIPTION:When Jay becomes obsessed with the success of a fellow chef\,
  milton. Also\, Elias Woodstone returns from hell with a limited-time offe
  r for the ghosts.
 DTEND:20250228T015100Z
-DTSTAMP:20250219T044501Z
+DTSTAMP:20250220T044501Z
 DTSTART:20250228T013000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -214,7 +201,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
 DTEND:20250228T024300Z
-DTSTAMP:20250219T044501Z
+DTSTAMP:20250220T044501Z
 DTSTART:20250228T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -224,17 +211,17 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
 DTEND:20250302T053500Z
-DTSTAMP:20250219T044501Z
+DTSTAMP:20250220T044501Z
 DTSTART:20250302T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Saturday Night Live - 50x13 - March 1\, 2025
-UID:NzbDrone_episode_12998
+SUMMARY:Saturday Night Live - 50x14 - Shane Gillis / Tate McRae
+UID:NzbDrone_episode_12999
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
 DTEND:20250303T043200Z
-DTSTAMP:20250219T044501Z
+DTSTAMP:20250220T044501Z
 DTSTART:20250303T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -244,7 +231,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
 DTEND:20250307T015100Z
-DTSTAMP:20250219T044501Z
+DTSTAMP:20250220T044501Z
 DTSTART:20250307T013000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -254,7 +241,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
 DTEND:20250307T024300Z
-DTSTAMP:20250219T044501Z
+DTSTAMP:20250220T044501Z
 DTSTART:20250307T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -264,17 +251,17 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
 DTEND:20250309T053500Z
-DTSTAMP:20250219T044501Z
+DTSTAMP:20250220T044501Z
 DTSTART:20250309T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Saturday Night Live - 50x14 - March 8\, 2025
-UID:NzbDrone_episode_12999
+SUMMARY:Saturday Night Live - 50x15 - Lady Gaga
+UID:NzbDrone_episode_13000
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
 DTEND:20250310T033200Z
-DTSTAMP:20250219T044501Z
+DTSTAMP:20250220T044501Z
 DTSTART:20250310T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -284,7 +271,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ABC (US)
 DTEND:20250312T004300Z
-DTSTAMP:20250219T044501Z
+DTSTAMP:20250220T044501Z
 DTSTART:20250312T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -294,7 +281,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
 DTEND:20250314T005100Z
-DTSTAMP:20250219T044501Z
+DTSTAMP:20250220T044501Z
 DTSTART:20250314T003000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -304,11 +291,21 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
 DTEND:20250314T014300Z
-DTSTAMP:20250219T044501Z
+DTSTAMP:20250220T044501Z
 DTSTART:20250314T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Matlock (2024) - 1x15 - Game Face
 UID:NzbDrone_episode_12960
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DTEND:20250319T004300Z
+DTSTAMP:20250220T044501Z
+DTSTART:20250319T000000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Will Trent - 3x10 - Best of Your Recollection
+UID:NzbDrone_episode_12996
 END:VEVENT
 END:VCALENDAR
