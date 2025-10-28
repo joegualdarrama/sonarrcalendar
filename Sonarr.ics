@@ -4,34 +4,11 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:Paramount+
-DESCRIPTION:Dwight launches his bourbon brand amid rising tensions as Dunm
- ire schemes to crash the launch and sabotage the event.
-DTEND:20251019T074000Z
-DTSTAMP:20251027T034502Z
-DTSTART:20251019T070000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Tulsa King - 3x05 - On the Rocks
-UID:NzbDrone_episode_14960
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:AMC
-DESCRIPTION:Our heroes fight to protect the people they love.
-DTEND:20251020T015500Z
-DTSTAMP:20251027T034502Z
-DTSTART:20251020T010000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Walking Dead: Daryl Dixon - 3x07 - Solaz del Mar
-UID:NzbDrone_episode_15356
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:BBC Two
 DESCRIPTION:Sandi Toksvig considers Wales\, whales\, and wails with Elis J
  ames\, Griff Rhys Jones\, Kiri Pritchard-McLean and Alan Davies.
 DTEND:20251021T213000Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251021T210000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -45,7 +22,7 @@ DESCRIPTION:It's almost Halloween\, and a wealthy lawyer is found dead in
  \, Captain Wagner surprises everyone with his skills. At home\, Elliot pl
  ays mediator between Morgan and Ava.
 DTEND:20251022T024300Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251022T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -59,7 +36,7 @@ DESCRIPTION:The final battle rages in the sky as the crew fights to save Z
  cking - [2:27:19-2:27:26]\nEmetophobia (Description and Sounds of Regurgi
  tation) - [2:28:04-2:28:09]
 DTEND:20251023T011000Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251022T230000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -72,7 +49,7 @@ DESCRIPTION:Ania Magliano spews up some blue jelly\, Sanjeev Bhaskar reque
  sts a comfort break and Maisie Adam squawks like an exotic bird\, while A
  lex Horne gets to wear an important hat!
 DTEND:20251023T204600Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251023T200000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -86,7 +63,7 @@ DESCRIPTION:Sam and Jay try to impress their trendy city friends while a m
  . Also\, Isaac rallies the ghosts to help the couple navigate a tough cus
  tomer service ordeal.
 DTEND:20251024T005100Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251024T003000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -99,7 +76,7 @@ DESCRIPTION:Matty and Olympia find out that the executive committee has fl
  own in after learning of a security breach at the firm. Also\, the team t
  akes on a case involving competing hot chicken restaurants.
 DTEND:20251024T014300Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251024T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -112,7 +89,7 @@ DESCRIPTION:Mike works every angle to protect his brother while contending
   with new forces in Kingstown\; Kyle accepts his fate\, Evelyn sets her s
  ights on Ian and Bunny allows himself to imagine a different future.
 DTEND:20251026T074700Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251026T070000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -124,7 +101,7 @@ CATEGORIES:Paramount+
 DESCRIPTION:Dwight scrambles to keep his bourbon business alive\, organizi
  ng covert shipments while facing threats from Dunmire and Quiet Ray.
 DTEND:20251026T074000Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251026T070000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -133,20 +110,36 @@ UID:NzbDrone_episode_14961
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
+DESCRIPTION:As four misfit kids vow to find their missing classmate\, Majo
+ r Leroy Hanlon arrives to a mixed reception at Derry Air Force Base.
+DTEND:20251027T020100Z
+DTSTAMP:20251028T034502Z
+DTSTART:20251027T010000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:IT: Welcome to Derry - 1x01 - The Pilot
+UID:NzbDrone_episode_16035
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HBO
+DESCRIPTION:John Oliver details what Medicare Advantage is\, and why it ba
+ sically has all the pitfalls of private insurance.
 DTEND:20251027T033300Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251027T030000Z
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Last Week Tonight with John Oliver - 12x27 - October 26\, 2025
+STATUS:CONFIRMED
+SUMMARY:Last Week Tonight with John Oliver - 12x27 - October 26\, 2025: Me
+ dicare Advantage
 UID:NzbDrone_episode_13850
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Hulu
-DESCRIPTION:The shocking truth is revealed\, and the trio finds themselves
-  in ultimate peril.
+DESCRIPTION:With the clock ticking\, the trio doubles down to bring "new" 
+ and "old" forces together to bring down a killer — ending in one explosiv
+ e showdown and the reveals they've been chasing all season.
 DTEND:20251028T043500Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251028T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -158,7 +151,7 @@ CATEGORIES:BBC Two
 DESCRIPTION:Sandi Toksvig takes a QI look at Wings and Wheels with Aisling
   Bea\, Hank Green\, Desiree Burch and Alan Davies.
 DTEND:20251028T223000Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251028T220000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -172,7 +165,7 @@ DESCRIPTION:When a priceless painting is stolen in a museum heist\, Morgan
  e and fierce ownership battle. Meanwhile\, Soto is determined to uncover 
  the secrets hidden inside Roman’s backpack.
 DTEND:20251029T024300Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251029T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -181,12 +174,14 @@ UID:NzbDrone_episode_15313
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
+DESCRIPTION:The White House deals with a disruptive spirit from the east w
+ ing\; Stan worries that South Park has become too political.
 DTEND:20251030T022200Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251030T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:South Park - 28x02 - TBA
+SUMMARY:South Park - 28x02 - The Woman In The Hat
 UID:NzbDrone_episode_15784
 END:VEVENT
 BEGIN:VEVENT
@@ -195,7 +190,7 @@ DESCRIPTION:Alex Horne gets to oversee his favourite sort of task: one inv
  olving mystery\, ducks and annoyed contestants. Reece Shearsmith balances
   on one leg for an impressively long time.
 DTEND:20251030T214600Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251030T210000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -207,7 +202,7 @@ CATEGORIES:CBS
 DESCRIPTION:Sam and Jay’s Halloween takes a spooky turn when they accident
  ally unleash a mummy ghost.
 DTEND:20251031T005100Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251031T003000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -220,7 +215,7 @@ DESCRIPTION:As Olympia and the team take on a wrongful death case\, Matty
  meets with a mysterious woman from Senior's past. Also\, Matty reflects o
  n her relationship with her daughter.
 DTEND:20251031T014300Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251031T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -231,7 +226,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Miles Teller hosts\, and Brandi Carlile performs.
 DTEND:20251102T043500Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251102T033000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -244,7 +239,7 @@ DESCRIPTION:Mike sends the prison a message and considers an offer from a
  Detroit legend\; Kyle struggles to adjust to his new reality as Ian finds
   himself in Evelyn's crosshairs.
 DTEND:20251102T084700Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251102T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -254,7 +249,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+
 DTEND:20251102T084000Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251102T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -263,8 +258,23 @@ UID:NzbDrone_episode_14962
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
+DESCRIPTION:After joining Leroy at their new house in Derry\, Charlotte is
+  left with a strange feeling while running errands in town\, and Will is 
+ teased on his first day of school. Later\, Lilly faces pressure from all 
+ sides about what really happened at the movie theater\, and Ronnie worrie
+ s about her father's fate.
+DTEND:20251103T030100Z
+DTSTAMP:20251028T034502Z
+DTSTART:20251103T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:IT: Welcome to Derry - 1x02 - The Thing in the Dark
+UID:NzbDrone_episode_16036
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HBO
 DTEND:20251103T043300Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251103T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -276,7 +286,7 @@ CATEGORIES:BBC Two
 DESCRIPTION:Sandi and Alan take a look at some weaponry with Nish Kumar\, 
  Lou Sanders and Roisin Conaty.
 DTEND:20251104T223000Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251104T220000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -285,8 +295,11 @@ UID:NzbDrone_episode_15766
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Channel 4
+DESCRIPTION:The scores are tight and the tasks are chaotic as Alex Horne d
+ ons his jockey silks\, Phil Ellis and Ania Magliano endanger the crew\, a
+ nd Maisie Adam forgets the rules. Again.
 DTEND:20251106T214600Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251106T210000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -298,7 +311,7 @@ CATEGORIES:CBS
 DESCRIPTION:Trevor finds a way to spend more time with his newly discovere
  d daughter\, Abby\, by getting her at job at Jay’s restaurant.
 DTEND:20251107T015100Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251107T013000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -311,7 +324,7 @@ DESCRIPTION:Matty and Olympia race to protect each other from Julian's sus
  picions as they also work on the resentencing case of a teenager sentence
  d as an adult to life.
 DTEND:20251107T024300Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251107T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -322,7 +335,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Nikki Glaser hosts\, and sombr performs.
 DTEND:20251109T053500Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251109T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -336,7 +349,7 @@ DESCRIPTION:Mike and Ian discover a coverup that leads to an unexpected so
  lity and as the cartel threat grows\, Mike enlists help to snuff it out a
  t its source.
 DTEND:20251109T084700Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251109T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -346,7 +359,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+
 DTEND:20251109T084000Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251109T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -355,8 +368,23 @@ UID:NzbDrone_episode_14963
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
+DESCRIPTION:When a major find yields few clues\, General Shaw pushes ahead
+  with his top-secret mission\, ordering Leroy and Pauly to escort Dick Ha
+ llorann on an aerial search for a new dig site. Meanwhile\, Rose attends 
+ a tribal meeting about the military presence in Derry\, and Ronnie\, Lill
+ y\, Will\, and Rich attempt to get visual proof by conjuring an Orixá.
+DTEND:20251110T030100Z
+DTSTAMP:20251028T034502Z
+DTSTART:20251110T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:IT: Welcome to Derry - 1x03 - Now You See It
+UID:NzbDrone_episode_16037
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HBO
 DTEND:20251110T043300Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251110T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -366,7 +394,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:BBC Two
 DTEND:20251111T223000Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251111T220000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -376,7 +404,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DTEND:20251113T032200Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251113T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -386,11 +414,11 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Channel 4
 DTEND:20251113T214600Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251113T210000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Taskmaster - 20x10 - TBA
+SUMMARY:Taskmaster - 20x10 - The Final: Supping From The Fountain
 UID:NzbDrone_episode_15113
 END:VEVENT
 BEGIN:VEVENT
@@ -399,7 +427,7 @@ DESCRIPTION:Trevor’s relationship with his daughter is strained when he pu
  shes her to follow a career in finance over poetry. Meanwhile\, Jay confr
  onts labor unrest at the restaurant.
 DTEND:20251114T015100Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251114T013000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -410,7 +438,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Glen Powell hosts\, and Olivia Dean performs.
 DTEND:20251116T053500Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251116T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -424,7 +452,7 @@ DESCRIPTION:Confronted with the cartel's unexpected strength\, Mike's orde
   in danger\; Mike grows closer to a new C.O. while putting an old friend 
  on notice.
 DTEND:20251116T084700Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251116T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -434,7 +462,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+
 DTEND:20251116T084000Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251116T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -443,8 +471,18 @@ UID:NzbDrone_episode_14965
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
+DTEND:20251117T030100Z
+DTSTAMP:20251028T034502Z
+DTSTART:20251117T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:IT: Welcome to Derry - 1x04 - TBA
+UID:NzbDrone_episode_16038
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HBO
 DTEND:20251117T043300Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251117T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -454,7 +492,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:BBC Two
 DTEND:20251118T223000Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251118T220000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -467,7 +505,7 @@ DESCRIPTION:Sam and Pete get on each other's nerves during a book tour roa
  d trip and things reach a breaking point when an airline strike threatens
   their ability to get home in time for Thanksgiving.
 DTEND:20251121T015100Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251121T013000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -477,11 +515,54 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
 DTEND:20251121T024300Z
-DTSTAMP:20251027T034502Z
+DTSTAMP:20251028T034502Z
 DTSTART:20251121T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Matlock (2024) - 2x06 - Harm Reduction
 UID:NzbDrone_episode_15779
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DESCRIPTION:New dangers threaten Mike's family as Callahan comes back into
+  focus\; Mike goes toe-to-toe with Hobbs as Ian goes to great lengths to 
+ sabotage Evelyn's case against him.
+DTEND:20251123T084700Z
+DTSTAMP:20251028T034502Z
+DTSTART:20251123T080000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Mayor of Kingstown - 4x05 - Damned
+UID:NzbDrone_episode_13263
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DTEND:20251123T084000Z
+DTSTAMP:20251028T034502Z
+DTSTART:20251123T080000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Tulsa King - 3x10 - Out of Adventure
+UID:NzbDrone_episode_15760
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DTEND:20251123T093400Z
+DTSTAMP:20251028T034502Z
+DTSTART:20251123T084700Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Mayor of Kingstown - 4x06 - TBA
+UID:NzbDrone_episode_13738
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HBO
+DTEND:20251124T030100Z
+DTSTAMP:20251028T034502Z
+DTSTART:20251124T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:IT: Welcome to Derry - 1x05 - TBA
+UID:NzbDrone_episode_16039
 END:VEVENT
 END:VCALENDAR
