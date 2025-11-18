@@ -4,65 +4,11 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:Paramount+
-DESCRIPTION:Mike and Ian discover a coverup that leads to an unexpected so
- urce. Moses shows Bunny the ropes\, Kyle wrestles with his newfound futil
- ity and as the cartel threat grows\, Mike enlists help to snuff it out at
-  its source.
-DTEND:20251109T084800Z
-DTSTAMP:20251117T044501Z
-DTSTART:20251109T080000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Mayor of Kingstown - 4x03 - People Who Died
-UID:NzbDrone_episode_13200
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Paramount+
-DESCRIPTION:Dwight uncovers a deadly plan by Dunmire and races to stop it.
-  Tyson finds a new means of kicking up to the boss.
-DTEND:20251109T084000Z
-DTSTAMP:20251117T044501Z
-DTSTART:20251109T080000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Tulsa King - 3x08 - Nothing Is Over
-UID:NzbDrone_episode_14963
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:HBO
-DESCRIPTION:As Leroy\, Pauly\, and Dick search for a new dig site\, the ki
- ds attempt to get visual proof of the phenomena they've been experiencing
- .
-DTEND:20251110T030000Z
-DTSTAMP:20251117T044501Z
-DTSTART:20251110T020000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:IT: Welcome to Derry - 1x03 - Now You See It
-UID:NzbDrone_episode_16037
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:HBO
-DESCRIPTION:John Oliver discusses felony murder\, a way you can wind up in
-  prison for murder without actually killing anyone\, and why Cillian Murp
- hy won an Oscar\, not his parents whose hot Irish sex led to his existenc
- e. Those last two things are related. We swear.
-DTEND:20251110T043300Z
-DTSTAMP:20251117T044501Z
-DTSTART:20251110T040000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Last Week Tonight with John Oliver - 12x29 - November 9\, 2025: Fe
- lony Murder
-UID:NzbDrone_episode_13852
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:BBC Two
 DESCRIPTION:Sandi Toksvig has a wavey episode of QI with Phil Wang\, Sara 
  Pascoe\, Tom Allen and Alan Davies.
 DTEND:20251111T223000Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251111T220000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -75,7 +21,7 @@ DESCRIPTION:Butters’ Al revenge plan backfires\, igniting an epidemic of f
  ake videos at school that leaves Detective Harris struggling to tell fant
  asy from reality.
 DTEND:20251113T032200Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251113T030000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -93,7 +39,7 @@ DESCRIPTION:As the closest-ever series of Taskmaster reaches its sparkling
  y in the air\, Alex Horne gets drenched multiple times\, before Greg Davi
  es crowns the new champion.
 DTEND:20251113T214600Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251113T210000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -106,7 +52,7 @@ DESCRIPTION:Trevor’s relationship with his daughter is strained when he pu
  shes her to follow a career in finance over poetry. Meanwhile\, Jay confr
  onts labor unrest at the restaurant.
 DTEND:20251114T015100Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251114T013000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -119,7 +65,7 @@ DESCRIPTION:Matty and Olympia continue to test the boundaries of their fri
  endship while helping a group of nuns. Meanwhile\, Olympia and Sarah beco
  me roped into secretive activities within the firm.
 DTEND:20251114T024300Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251114T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -130,10 +76,10 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Glen Powell hosts\, and Olivia Dean performs.
 DTEND:20251116T053500Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251116T043000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Saturday Night Live - 51x06 - Glen Powell / Olivia Dean
 UID:NzbDrone_episode_14969
 END:VEVENT
@@ -144,7 +90,7 @@ DESCRIPTION:Confronted with the cartel's unexpected strength\, Mike's orde
  in danger. Mike grows closer to a new C.O. while putting an old friend on
   notice.
 DTEND:20251116T084800Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251116T080000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -157,7 +103,7 @@ DESCRIPTION:As Dwight expands his liquor empire\, Tyson's side hustle draw
  s heat. Meanwhile\, old loyalties win out as Dwight has a run-in with his
   past.
 DTEND:20251116T084000Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251116T080000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -170,22 +116,26 @@ DESCRIPTION:As the kids face increasingly terrifying experiences\, Charlot
  te attempts to advocate for Hank\, and General Shaw escalates his efforts
  .
 DTEND:20251117T030000Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251117T020000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:IT: Welcome to Derry - 1x04 - The Great Swirling Apparatus of Our 
  Planet's Function
 UID:NzbDrone_episode_16038
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
+DESCRIPTION:John Oliver discusses Jeffrey Epstein’s emails about Donald Tr
+ ump\, the vital role public media plays in the lives of many Americans\, 
+ and some absolutely essential questions about a squirrel named Peapod.
 DTEND:20251117T043300Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251117T040000Z
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Last Week Tonight with John Oliver - 12x30 - November 16\, 2025
+STATUS:CONFIRMED
+SUMMARY:Last Week Tonight with John Oliver - 12x30 - November 16\, 2025: P
+ ublic Media
 UID:NzbDrone_episode_13853
 END:VEVENT
 BEGIN:VEVENT
@@ -193,7 +143,7 @@ CATEGORIES:BBC Two
 DESCRIPTION:Sandi Toksvig takes a QI look at the Wild West with Alex Brook
  er\, Jo Brand\, Eshaan Akbar and Alan Davies.
 DTEND:20251118T223000Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251118T220000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -208,7 +158,7 @@ DESCRIPTION:Unsatisfied with Jay’s ability to tend to their needs while Sa
   things reach a breaking point when an airline strike threatens their abi
  lity to get home in time for Thanksgiving.
 DTEND:20251121T015100Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251121T013000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -221,7 +171,7 @@ DESCRIPTION:New dangers threaten Mike's family as Callahan comes back into
   focus. Mike goes toe-to-toe with Hobbs as Ian goes to great lengths to s
  abotage Evelyn's case against him.
 DTEND:20251123T084800Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251123T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -231,7 +181,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+
 DTEND:20251123T084000Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251123T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -240,13 +190,12 @@ UID:NzbDrone_episode_15760
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
-DESCRIPTION:After learning the truth about General Shaw's operation\, Lero
- y decides to move his family to the base for safety. While the tribal Kee
- pers strategize how to contain increased aggression in town\, the militar
- y descends on Neibolt Street\, and the kids head into the sewers with the
- ir own objective.
+DESCRIPTION:Leroy moves his family to the base for safety. While the triba
+ l Keepers strategize how to contain increased aggression in town\, the mi
+ litary descends on Neibolt Street\, and the kids head into the sewers wit
+ h their own objective.
 DTEND:20251124T030000Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251124T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -258,7 +207,7 @@ CATEGORIES:BBC Two
 DESCRIPTION:Sandi Toksvig goes a-wooing with Rosie Jones\, Larry Dean\, Ma
  isie Adam and Alan Davies.
 DTEND:20251125T223000Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251125T220000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -268,7 +217,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
 DTEND:20251126T090200Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251126T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -278,7 +227,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
 DTEND:20251126T090200Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251126T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -288,7 +237,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
 DTEND:20251126T090200Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251126T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -298,7 +247,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
 DTEND:20251126T090200Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251126T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -308,7 +257,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DTEND:20251127T032200Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251127T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -318,7 +267,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+
 DTEND:20251130T084800Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251130T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -327,12 +276,11 @@ UID:NzbDrone_episode_13738
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
-DESCRIPTION:Plagued by increasingly dark visions\, Dick learns the Black S
- pot is integral to Charlotte's plan. Meanwhile\, Will faces his parents' 
- disapproval for walking into a dangerous situation\, Marge stands up to t
- he Patty Cakes\, and Lilly's behavior grows erratic.
+DESCRIPTION:Dick is plagued by increasingly dark visions. Will faces his p
+ arents' disapproval\, Marge stands up to the Patty Cakes\, and Lilly's be
+ havior grows erratic.
 DTEND:20251201T030000Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251201T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -342,7 +290,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:BBC Two
 DTEND:20251202T223000Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251202T220000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -355,7 +303,7 @@ DESCRIPTION:Sam helps Eric plan the perfect proposal for Bela\, until an e
  ncounter with Sasappis plants doubt in Bela’s mind. Meanwhile\, Isaac tri
  es to prove he’s “just one of the basement ghosts".
 DTEND:20251205T015100Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251205T013000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -368,7 +316,7 @@ DESCRIPTION:Olympia works to repair her relationship with her family after
   she takes on a case involving her mother’s new husband. Also\, Matty and
   Olympia receive a shocking piece of information.
 DTEND:20251205T024300Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251205T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -379,7 +327,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Melissa McCarthy hosts\, and Dijon performs.
 DTEND:20251207T053500Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251207T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -389,7 +337,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+
 DTEND:20251207T084800Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251207T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -399,7 +347,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
 DTEND:20251208T030000Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251208T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -409,7 +357,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:BBC Two
 DTEND:20251209T223000Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251209T220000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -419,7 +367,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DTEND:20251211T032200Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251211T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -433,7 +381,7 @@ DESCRIPTION:Now a successful podcaster\, Todd Pearlman returns to profile
  ies to get to the bottom of why Alberta changed her name\, forcing her to
   admit a hidden truth.
 DTEND:20251212T015100Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251212T013000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -445,7 +393,7 @@ CATEGORIES:CBS
 DESCRIPTION:With the holidays approaching\, some mysteries start to come t
  o light while taking on a case involving the city’s fire department.
 DTEND:20251212T024300Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251212T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -454,12 +402,33 @@ UID:NzbDrone_episode_15781
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
+DESCRIPTION:Josh O'Connor hosts\, and Lily Allen performs.
 DTEND:20251214T053500Z
-DTSTAMP:20251117T044501Z
+DTSTAMP:20251118T044501Z
 DTSTART:20251214T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Saturday Night Live - 51x08 - December 13\, 2025
+SUMMARY:Saturday Night Live - 51x08 - Josh O'Connor / Lily Allen
 UID:NzbDrone_episode_14971
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DTEND:20251214T084800Z
+DTSTAMP:20251118T044501Z
+DTSTART:20251214T080000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Mayor of Kingstown - 4x08 - My Way
+UID:NzbDrone_episode_13740
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HBO
+DTEND:20251215T030000Z
+DTSTAMP:20251118T044501Z
+DTSTART:20251215T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:IT: Welcome to Derry - 1x08 - Winter Fire
+UID:NzbDrone_episode_16042
 END:VEVENT
 END:VCALENDAR
