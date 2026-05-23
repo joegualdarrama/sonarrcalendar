@@ -4,37 +4,10 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:Channel 4
-DESCRIPTION:Coconuts are doused in vinegar\, glue and Alex Horne's hair. K
- umail Nanjiani impresses with his super-human jaw strength. And don't be 
- alarmed\, it's just Joanna Page screaming... again.
-DTEND:20260514T204600Z
-DTSTAMP:20260522T034503Z
-DTSTART:20260514T200000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Taskmaster - 21x06 - An Even Bigger Spoon
-UID:NzbDrone_episode_16908
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CBS
-DESCRIPTION:When a Hollywood producer comes to scout Woodstone as a filmin
- g location\, Sam is prompted to take a creative leap that draws unexpecte
- d support from the ghosts. Meanwhile\, changing roles among the ghosts sp
- ark a heartfelt effort to honor someone special.
-DTEND:20260515T005100Z
-DTSTAMP:20260522T034503Z
-DTSTART:20260515T003000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Ghosts (US) - 5x20 - Polar Opposites
-UID:NzbDrone_episode_16928
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Sky One
 DESCRIPTION:Ncuti Gatwa hosts as Holly Humberstone performs live.
 DTEND:20260516T215800Z
-DTSTAMP:20260522T034503Z
+DTSTAMP:20260523T034502Z
 DTSTART:20260516T210000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -45,7 +18,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Will Ferrell hosts\, and Paul McCartney performs.
 DTEND:20260517T043500Z
-DTSTAMP:20260522T034503Z
+DTSTAMP:20260523T034502Z
 DTSTART:20260517T033000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -58,7 +31,7 @@ DESCRIPTION:John Oliver discusses structured settlements – the incremental
   payments designed to sustain victims of injury or wrongful death over lo
  ng periods of time.
 DTEND:20260518T033300Z
-DTSTAMP:20260522T034503Z
+DTSTAMP:20260523T034502Z
 DTSTART:20260518T030000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -67,12 +40,114 @@ SUMMARY:Last Week Tonight with John Oliver - 13x12 - May 17\, 2026: Struct
 UID:NzbDrone_episode_17143
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:When grieving widower Sam Cooper reluctantly moves to a desert
+  retirement community\, he discovers something is lurking beneath its per
+ fect surface.
+DTEND:20260521T074600Z
+DTSTAMP:20260523T034502Z
+DTSTART:20260521T070000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Boroughs - 1x01 - Welcome to The Boroughs
+UID:NzbDrone_episode_17241
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:Still reeling\, Sam seeks answers close to home. Renee gets a 
+ break in the case of the missing minerals. Judy and Wally face up to pain
+ ful realities.
+DTEND:20260521T074600Z
+DTSTAMP:20260523T034502Z
+DTSTART:20260521T070000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Boroughs - 1x02 - The Mourning After
+UID:NzbDrone_episode_17242
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:Sam and Wally decide to take a risk. Renee and Paz's investiga
+ tion brings them closer together. Art seeks answers in the desert.
+DTEND:20260521T074600Z
+DTSTAMP:20260523T034502Z
+DTSTART:20260521T070000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Boroughs - 1x03 - A Pyramid
+UID:NzbDrone_episode_17243
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:Art savors the fruits of his explorations. Blaine warns Sam th
+ at curiosity comes with consequences. Renee makes a shocking discovery.
+DTEND:20260521T074600Z
+DTSTAMP:20260523T034502Z
+DTSTART:20260521T070000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Boroughs - 1x04 - Forbidden Fruit
+UID:NzbDrone_episode_17244
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:Sam\, Judy and Wally uncover a new side of The Boroughs. Renee
+  and Paz go on a road trip. Blaine tries to convince Claire to take actio
+ n.
+DTEND:20260521T074600Z
+DTSTAMP:20260523T034502Z
+DTSTART:20260521T070000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Boroughs - 1x05 - Another Beautiful Day
+UID:NzbDrone_episode_17245
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:With the entire gang under Blaine's thumb\, Sam desperately se
+ eks a way out. Art and Judy hit a breaking point. Wally gets a taste of a
+  new life.
+DTEND:20260521T074600Z
+DTSTAMP:20260523T034502Z
+DTSTART:20260521T070000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Boroughs - 1x06 - The Grey Rebellion
+UID:NzbDrone_episode_17246
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:As the anniversary party approaches\, Anneliese reveals a pain
+ ful secret. The gang gets in gear for a high-stakes rescue mission at The
+  Manor.
+DTEND:20260521T074600Z
+DTSTAMP:20260523T034502Z
+DTSTART:20260521T070000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Boroughs - 1x07 - Time To Go
+UID:NzbDrone_episode_17247
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:With Blaine and Anneliese desperate to capture Mother\, Sam an
+ d his friends put it all on the line to save their neighbors and set thin
+ gs right.
+DTEND:20260521T074600Z
+DTSTAMP:20260523T034502Z
+DTSTART:20260521T070000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Boroughs - 1x08 - Triple Audible
+UID:NzbDrone_episode_17248
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Channel 4
 DESCRIPTION:Armando Iannucci and Joanna Page contemplate an alien invasion
   in the Taskmaster house. Joel Dommett enjoys putting things on things an
  d Amy Gledhill performs sock-based stand-up.
 DTEND:20260521T204600Z
-DTSTAMP:20260522T034503Z
+DTSTAMP:20260523T034502Z
 DTSTART:20260521T200000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -85,10 +160,10 @@ DESCRIPTION:When Woodstone’s future is put in jeopardy\, Sam and Jay join
  forces with the ghosts to protect the mansion by securing its place in hi
  story.
 DTEND:20260522T005100Z
-DTSTAMP:20260522T034503Z
+DTSTAMP:20260523T034502Z
 DTSTART:20260522T003000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Ghosts (US) - 5x21 - Up the Creek (1)
 UID:NzbDrone_episode_16929
 END:VEVENT
@@ -98,10 +173,10 @@ DESCRIPTION:A trip abroad could determine Woodstone’s fate. Meanwhile\, a
  major career opportunity takes Sam out of town\, leaving others to step i
  n and help with the ghosts.
 DTEND:20260522T011200Z
-DTSTAMP:20260522T034503Z
+DTSTAMP:20260523T034502Z
 DTSTART:20260522T005100Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Ghosts (US) - 5x22 - Across the Pond (2)
 UID:NzbDrone_episode_16930
 END:VEVENT
@@ -109,7 +184,7 @@ BEGIN:VEVENT
 CATEGORIES:Adult Swim
 DESCRIPTION:Rick's been lonely\, broh. Morty's worried bout side pieces.
 DTEND:20260525T032200Z
-DTSTAMP:20260522T034503Z
+DTSTAMP:20260523T034502Z
 DTSTART:20260525T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -122,7 +197,7 @@ DESCRIPTION:In an episode of unusual events\, Joanna Page and Amy Gledhill
   put pineapples and balls of ice in unexpected places\, while Kumail Nanj
  iani reveals his missing body part.
 DTEND:20260528T204600Z
-DTSTAMP:20260522T034503Z
+DTSTAMP:20260523T034502Z
 DTSTART:20260528T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -133,7 +208,7 @@ BEGIN:VEVENT
 CATEGORIES:Adult Swim
 DESCRIPTION:You try being Rick all the time\, broh.
 DTEND:20260601T032200Z
-DTSTAMP:20260522T034503Z
+DTSTAMP:20260523T034502Z
 DTSTART:20260601T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -143,7 +218,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
 DTEND:20260601T033300Z
-DTSTAMP:20260522T034503Z
+DTSTAMP:20260523T034502Z
 DTSTART:20260601T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -153,7 +228,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Channel 4
 DTEND:20260604T204600Z
-DTSTAMP:20260522T034503Z
+DTSTAMP:20260523T034502Z
 DTSTART:20260604T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -165,7 +240,7 @@ CATEGORIES:Adult Swim
 DESCRIPTION:You haven't lived till you've chested up at Trader Joe's\, bro
  h.
 DTEND:20260608T032200Z
-DTSTAMP:20260522T034503Z
+DTSTAMP:20260523T034502Z
 DTSTART:20260608T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -175,7 +250,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
 DTEND:20260608T033300Z
-DTSTAMP:20260522T034503Z
+DTSTAMP:20260523T034502Z
 DTSTART:20260608T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -187,7 +262,7 @@ CATEGORIES:Channel 4
 DESCRIPTION:It's the finale - who will get to lift Greg's shiny golden bon
  ce?
 DTEND:20260611T204600Z
-DTSTAMP:20260522T034503Z
+DTSTAMP:20260523T034502Z
 DTSTART:20260611T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -197,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Adult Swim
 DTEND:20260615T032200Z
-DTSTAMP:20260522T034503Z
+DTSTAMP:20260523T034502Z
 DTSTART:20260615T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -207,7 +282,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
 DTEND:20260615T033300Z
-DTSTAMP:20260522T034503Z
+DTSTAMP:20260523T034502Z
 DTSTART:20260615T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
